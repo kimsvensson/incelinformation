@@ -1,0 +1,58 @@
+a:link {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+color: rgb(0, 0, 0);
+background-color: transparent;
+text-decoration: none;
+}
+
+a:active {
+color: rgb(0, 0, 0);
+background-color: transparent;
+text-decoration: none;
+}
+
+body, html{
+    font-family: 'DotGothic16', sans-serif;
+    font-weight: bold;
+    font-weight: 500;
+    height: 100%;
+    margin: 0;
+    
+}
+
+.back{
+    position: fixed;
+    right: 10px;
+    top: 4px;
+    font-size: 30px;
+    font-weight: bolder;
+
+}
+
+.start {
+    height:100%;
+    background-image: url(startimg.png);
+    padding-top: 5px;
+    text-align: center;
+    font-size: 70px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+
+}
+
+table {
+    width: 100vw;
+    margin: auto;
+}
